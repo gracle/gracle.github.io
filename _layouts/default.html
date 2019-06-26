@@ -63,24 +63,6 @@
 
 	  </div>
 	          <!-- Sidebar Widgets Column -->
-	<div class="col-md-4">  
-	  <div class="card my-4">
-	    <h5 class="card-header">Recent posts</h5>
-	    <div class="card-body">
-	      <div class="row">
-		<div class="col-lg-6">
-		  <ul class="list-unstyled mb-0">
-		  {% for post in paginator.posts %}
-		    <li>
-		      <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
-		    </li>
-		  {% endfor %}
-		  </ul>
-		</div>
-	      </div>
-	    </div>
-	  </div>
-	</div>
 
 	
 
