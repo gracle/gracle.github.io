@@ -7,19 +7,19 @@ Starting a website is easy. There are lot of free services and tools are availab
 ## About GitHub and Jekyll
 GitHub is one of the widely used software repo by developers and organizations. It lets you host your code for free. You can create both public and private repositories to host your code. Public means, anyone can access it, download and suggest modifications if any. Private means, your code is just yours. GitHub isn't just only for hosting your code, but also lets you create your own websites. It is made possible by <a href="https://jekyllrb.com/">Jekyll</a>.
 Jekyll is like a framework written in Ruby which lets you create dynamic website out of static pages. It's simple to use and easy to get started with.
-How is about a site with a sub-domain yourname.github.io? Well. Let's begin,
+How is about a site with a sub-domain yourname.github.io? Well. Let's begin.
 
 ## STEP 1 : Signing up.
 Go to <a href="http://github.com">http://github.com</a>.<br/><br/>
 <img src="/img/post_create_github_blog/signup.JPG" width="100%"><br/>
 <p>Click sign up. If you have an existing account, you can proceed to login page.<p> Signing up is simple as we do in Facebook or Google. Choose a username, enter a password and provide your email. That's it.
-<p>Check your email and verify your account. You're ready to go.<br/>
+<p>Check your email and verify your account.
 
 ## STEP 2 : Creating a repository
 Click the plus <b>'+'</b> icon on the top.<br/><br/>
 <img src="/img/post_create_github_blog/newrepo.JPG" width="100%"><br/>
 <p> Choose New repository from the drop-down. 
-<p>A repository is like a work folder or a project. You can give any name for your repository in usual cases. Like I said, it's just like a work folder(a unique work folder) . <p>But, in this case, we need to take an extra care while giving a name. <p>The name of our repo should be in the form such that : <i>yourusername.github.io</i> . <p>Yes. you must name your repo like this. For example, my username is "<i>arjun</i>". So, I must name my repo as "<i>arjun.github.io</i>".<p> I can't give a name like "mysite.github.io" or "website.github.io". But, it is possible to add a custom domain name later. <p> Am I confusing? ;-)<br/>
+<p>A repository is like a work folder or a project. You can give any name for your repository in usual cases. Like I said, it's just like a work folder(a unique work folder) . <p>But, in this case, we need to take an extra care while giving a name. <p>The name of our repo should be in the form such that : <i>yourusername.github.io</i> . <p>Yes. you must name your repo like this. For example, my username is "<i>arjun</i>". So, I must name my repo as "<i>arjun.github.io</i>".<p> I can't give a name like "mysite.github.io" or "website.github.io". But, it is possible to add a custom domain name later. <p> Am I confusing? ;-) .
 
 ## STEP 3 : Creating website.
 You will see multiple options after creating a repo like shown in the picture below.<br/><br/>
