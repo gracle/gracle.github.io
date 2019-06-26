@@ -9,7 +9,7 @@ layout: default
 	  	<h2 class="card-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	
 	  	<p class="card-text">{{ post.content | strip_html | truncatewords:50 }}</p>
-		 <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="btn btn-link">Read More &rarr;</a>
+		 <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="btn btn-success">Read More &rarr;</a>
 	</div>
 	<div class="card-footer text-muted">
 		<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">Posted on {{ post.date | date_to_string }}</time>
