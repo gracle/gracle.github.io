@@ -31,5 +31,5 @@ To find Jekyll templates, you can use search bar of github (You can google such 
 <br/>
 <h2>STEP 4 : Customizing</h2>
 Wait! What? No styles and working urls? Looking weird? Don't worry. Open your repo. On that, open the file named “<i>config.yml</i>” and change the paths accordingly. Reload your site.
-
-In future, you'll learn about adding pages and posts, creating your own templates for your Jekyll website, more advanced functions etc.. <p>Thanks for reading.
+<p>
+In future, you'll learn about adding pages and posts, creating your own templates for your Jekyll website, more advanced functions etc.. <p><br>Thanks for reading.<br/><br/>
