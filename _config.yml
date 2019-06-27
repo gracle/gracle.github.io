@@ -25,16 +25,15 @@ defaults:
     values:
       layout: "post"
 
-plugins:
-  - jekyll-seo-tag
 
 # Plugins
 gems:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Custom variables
-version: "1.1.0"
+version: "1.0"
 
 # Options
 custom_header: false
