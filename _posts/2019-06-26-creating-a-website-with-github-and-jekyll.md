@@ -1,5 +1,6 @@
 ---
 title: Creating a website or blog with GitHub and Jekyll
+categories: Jekyll
 ---
 
 Starting a website is easy. There are lot of free services and tools are available to get started with. It only takes patience, interest and enthusiasm to start a website. In this article, you'll learn how to start a website with GitHub, a well-known software repo.

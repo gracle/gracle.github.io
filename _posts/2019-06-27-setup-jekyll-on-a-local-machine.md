@@ -1,5 +1,7 @@
 ---
 title: Setting up Jekyll on a local machine
+categories: Jekyll
+tags: [markdown, ruby]
 ---
 
 In the previous article, you've learned about creating a website with jekyll on GitHub. Now, we're going to install jekyll on our local machine and start develop blogs and websites locally. Let's begin.
