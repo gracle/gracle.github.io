@@ -19,11 +19,11 @@ Where, year is the current year, month is the current number (ie, if June is the
 
 Let's take an example. I'm creating a post on June 30, 2019. My post name is "Creating a post for my Jkyll blog"
 
-I'm have to name it:
+I have to name it:
 		
 		2019-06-30-creating-a-post-for-my-jekyll-blog.md
 
-Here I used .md file extension. Because md file is more readable than the html file. If html is more confortable for you, go for it. Then we can add contents on it. 
+Here I used .md file extension. Because md file is more readable than the html file. If html is more comfortable for you, go for it. Then we can add contents on it. 
 
 Now, create a file in above format. You can use any of your favourite text editor. I'm using pluma as my text editor.  
 
