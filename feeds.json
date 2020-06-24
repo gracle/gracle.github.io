@@ -8,7 +8,7 @@ layout: null
    'post-url': '{{ site.url }}{{ post.url }}',
    'perma': '{{ site.url }}{{ post.id }}',
    'post-date': '{{ post.date | date_to_xmlschema }}',
-   'post-content': '{{ post.content }}'
+   'post-content': '{{  post.content | xml_escape }}'
  }
  {% endfor %}
 
