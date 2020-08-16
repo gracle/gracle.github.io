@@ -81,7 +81,7 @@
 <div id="accordian">
 <div class="card">
 <div class="card-header">
-	<h5 class="mb-0">Categories</hh5>
+	<h5 class="mb-0">Categories</h5>
 </div>
 
 	
@@ -96,15 +96,15 @@
     </div>
     <div id="{{ category [0] }}" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
       <div class="card-body">
-        
-		 <ul class="list-group list-group-flush">
-		    {% for post in category[1] %}
-		      <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
-		    {% endfor %}
-	  	</ul>
-	  </div>
+	 <ul class="list-group list-group-flush">
+	    {% for post in category[1] %}
+	      <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+	    {% endfor %}
+	 </ul>
+      </div>
     </div>
   </div>
+
 
 {% endfor %}
 </div>
